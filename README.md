@@ -1,8 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m a junior backend developer
-- 🔭 I’m currently working on University Management System
-
-
+- 🌱 I’m a mid level backend developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadi-soufan-b6011919a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hadisoufan) 
